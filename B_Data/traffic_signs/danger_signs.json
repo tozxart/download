@@ -1,0 +1,192 @@
+[
+  {
+    "id": "d1",
+    "image": "traffic_img/img_sign6_0.png",
+    "description": "خطر اخر"
+  },
+  {
+    "id": "d2",
+    "image": "traffic_img/img_sign6_1.png",
+    "description": "مرتفع ذو إنحناء حاد"
+  },
+  {
+    "id": "d3",
+    "image": "traffic_img/img_sign6_2.png",
+    "description": "إعلان عن أضواء ذات ثلاث ألوان"
+  },
+  {
+    "id": "d4",
+    "image": "traffic_img/img_sign6_3.png",
+    "description": "طريق ضيق من اليمين"
+  },
+  {
+    "id": "d5",
+    "image": "traffic_img/img_sign6_4.png",
+    "description": "طريق مسنم"
+  },
+  {
+    "id": "d6",
+    "image": "traffic_img/img_sign6_5.png",
+    "description": "ركائز تدل على المسافات"
+  },
+  {
+    "id": "d7",
+    "image": "traffic_img/img_sign6_6.png",
+    "description": "معبد زالق"
+  },
+  {
+    "id": "d8",
+    "image": "traffic_img/img_sign6_7.png",
+    "description": "طريق ضيق"
+  },
+  {
+    "id": "d9",
+    "image": "traffic_img/img_sign6_8.png",
+    "description": "طريق ضيق من اليسار"
+  },
+  {
+    "id": "d10",
+    "image": "traffic_img/img_sign6_9.png",
+    "description": "مقذوفات حصى"
+  },
+  {
+    "id": "d11",
+    "image": "traffic_img/img_sign6_10.png",
+    "description": "خروج دراجات عادية"
+  },
+  {
+    "id": "d12",
+    "image": "traffic_img/img_sign6_11.png",
+    "description": "جولان في الإتجاهين"
+  },
+  {
+    "id": "d13",
+    "image": "traffic_img/img_sign6_12.png",
+    "description": "منحدر خطير"
+  },
+  {
+    "id": "d14",
+    "image": "traffic_img/img_sign6_13.png",
+    "description": "طريق تنتهى الى رصيف أو حافة نهر"
+  },
+  {
+    "id": "d15",
+    "image": "traffic_img/img_sign6_14.png",
+    "description": "حاشية خطيرة"
+  },
+  {
+    "id": "d16",
+    "image": "traffic_img/img_sign6_15.png",
+    "description": "تقاطع طريق مع سكة جديدية ذات مسلكين أو أكثر"
+  },
+  {
+    "id": "d17",
+    "image": "traffic_img/img_sign6_16.png",
+    "description": "تقاطع طريق مع سكة حديدية ذات مسلك واحد"
+  },
+  {
+    "id": "d18",
+    "image": "traffic_img/img_sign6_17.png",
+    "description": "مكان يكثر فيه الأطفال"
+  },
+  {
+    "id": "d19",
+    "image": "traffic_img/img_sign6_18.png",
+    "description": "مرور حيوانات أهلية"
+  },
+  {
+    "id": "d20",
+    "image": "traffic_img/img_sign6_19.png",
+    "description": "تقاطع طريق مع سكة حديدية مجهزة بحواجز و خطوط كهربائية"
+  },
+  {
+    "id": "d21",
+    "image": "traffic_img/img_sign6_20.png",
+    "description": "تقاطع طريق مع سكة حديدية مجهزة بحواجز ذات تشغيل يدوى"
+  },
+  {
+    "id": "d22",
+    "image": "traffic_img/img_sign6_21.png",
+    "description": "تقاطع طريق مع سكة حديدية بدون حواجز أو نصف حواجز"
+  },
+  {
+    "id": "d23",
+    "image": "traffic_img/img_sign6_22.png",
+    "description": "عبور خيالة"
+  },
+  {
+    "id": "d24",
+    "image": "traffic_img/img_sign6_23.png",
+    "description": "مرور حيوانات وحشية"
+  },
+  {
+    "id": "d25",
+    "image": "traffic_img/img_sign6_24.png",
+    "description": "مخفض للسرعة من نوع مسنم"
+  },
+  {
+    "id": "d26",
+    "image": "traffic_img/img_sign6_25.png",
+    "description": "جسر متحرك"
+  },
+  {
+    "id": "d27",
+    "image": "traffic_img/img_sign6_26.png",
+    "description": "ممر خاص بالمترجلين"
+  },
+  {
+    "id": "d28",
+    "image": "traffic_img/img_sign6_27.png",
+    "description": "تقاطع طريق مع سكة حديدية مجهزة باشارات أوتوماتيكية ضوئية و صوتية"
+  },
+  {
+    "id": "d29",
+    "image": "traffic_img/img_sign6_28.png",
+    "description": "تقاطع طريق مع سكة حديدية مجهزة باشارات أوتوماتيكية ضوئية و صوتية"
+  },
+  {
+    "id": "d30",
+    "image": "traffic_img/img_sign6_29.png",
+    "description": "خطر سقوط حجارة أو وجود حجارة ساقطة على الطريق"
+  },
+  {
+    "id": "d31",
+    "image": "traffic_img/img_sign6_30.png",
+    "description": "منعرجات متتالية أولها على اليمين"
+  },
+  {
+    "id": "d32",
+    "image": "traffic_img/img_sign6_31.png",
+    "description": "منعرجات متتالية أولها على اليسار"
+  },
+  {
+    "id": "d33",
+    "image": "traffic_img/img_sign6_32.png",
+    "description": "تقاطع طريق مع سكك حديدية ذات مسلكين أو أكثر"
+  },
+  {
+    "id": "d34",
+    "image": "traffic_img/img_sign6_33.png",
+    "description": "رياح جانبية"
+  },
+  {
+    "id": "d35",
+    "image": "traffic_img/img_sign6_34.png",
+    "description": "تقاطع الطريق مع ترامواي أو مترو"
+  },
+  {
+    "id": "d36",
+    "image": "traffic_img/img_sign6_35.png",
+    "description": "عبور منطقة بها خطر طيران"
+  },
+  {
+    "id": "d37",
+    "image": "traffic_img/img_sign6_36.png",
+    "description": "منعرج خطير على اليسار"
+  },
+  {
+    "id": "d38",
+    "image": "traffic_img/img_sign6_37.png",
+    "description": "منعرج خطير على اليمين"
+  }
+]

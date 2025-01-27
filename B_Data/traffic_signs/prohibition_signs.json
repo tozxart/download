@@ -1,0 +1,257 @@
+[
+  {
+    "id": "p1",
+    "image": "traffic_img/img_sign0_0.png",
+    "description": "ممنوع الجولان على عربات نقل البضائع"
+  },
+  {
+    "id": "p2",
+    "image": "traffic_img/img_sign0_1.png",
+    "description": "ممنوع الجولان على العربات التي يفوق علوها باعتبار الحمولة العلو المبين بالعلامة"
+  },
+  {
+    "id": "p3",
+    "image": "traffic_img/img_sign0_2.png",
+    "description": "ممنوع الجولان على العربات التي يفوق عرضها باعتبار الحمولة العرض المبين بالعلامة"
+  },
+  {
+    "id": "p4",
+    "image": "traffic_img/img_sign0_3.png",
+    "description": "ممنوع الجولان على العربات التي يفوق طولها باعتبار الحمولة الطول المبين بالعلامة"
+  },
+  {
+    "id": "p5",
+    "image": "traffic_img/img_sign0_4.png",
+    "description": "اتجاه محجر على كل العربات ممنوع الجولان على العربات الناقلة لمواد خطرة و المبينة عليها كذلك"
+  },
+  {
+    "id": "p6",
+    "image": "traffic_img/img_sign0_5.png",
+    "description": "ممنوع الجولان على العربات التي يفوق وزنها على المغزل الواحد طنين اثنين"
+  },
+  {
+    "id": "p7",
+    "image": "traffic_img/img_sign0_6.png",
+    "description": "ممنوع الجولان في الإتجاهين"
+  },
+  {
+    "id": "p8",
+    "image": "traffic_img/img_sign0_7.png",
+    "description": "ممنوع الجولان على الحافلات"
+  },
+  {
+    "id": "p9",
+    "image": "traffic_img/img_sign0_8.png",
+    "description": "ممنوع الجولان على العربات المجرورة باليد"
+  },
+  {
+    "id": "p10",
+    "image": "traffic_img/img_sign0_9.png",
+    "description": "ممنوع الجولان على الدراجات"
+  },
+  {
+    "id": "p11",
+    "image": "traffic_img/img_sign0_10.png",
+    "description": "ممنوع الجولان على الدراجات النارية الصغيرة"
+  },
+  {
+    "id": "p12",
+    "image": "traffic_img/img_sign0_11.png",
+    "description": "ممنوع الجولان على العربات التي يفوق وزنها الجملى المرخص فيه الحد المبين بالعلامة"
+  },
+  {
+    "id": "p13",
+    "image": "traffic_img/img_sign0_12.png",
+    "description": "ممنوع الجولان على المترجلين"
+  },
+  {
+    "id": "p14",
+    "image": "traffic_img/img_sign0_13.png",
+    "description": "ممنوع الجولان على العربات ذات محرك"
+  },
+  {
+    "id": "p15",
+    "image": "traffic_img/img_sign0_14.png",
+    "description": "ممنوع الجولان على العربات و المعدات الفلاحية ذات محرك"
+  },
+  {
+    "id": "p16",
+    "image": "traffic_img/img_sign0_15.png",
+    "description": "ممنوع الجولان على الدراجات النارية المتوسطة و الكبيرة"
+  },
+  {
+    "id": "p17",
+    "image": "traffic_img/img_sign0_16.png",
+    "description": "ممنوع الجولان على العربات ذات محرك باستثناء الدراجات النارية بدون عربة جانبية"
+  },
+  {
+    "id": "p18",
+    "image": "traffic_img/img_sign0_17.png",
+    "description": "يمنع تجاوز السرعة المبينة بالعلامة"
+  },
+  {
+    "id": "p19",
+    "image": "traffic_img/img_sign0_18.png",
+    "description": "ممنوع الدوران على اليسارفي المفترق القادم"
+  },
+  {
+    "id": "p20",
+    "image": "traffic_img/img_sign0_19.png",
+    "description": "ممنوع الدوران على اليمين في المفترق القادم"
+  },
+  {
+    "id": "p21",
+    "image": "traffic_img/img_sign0_20.png",
+    "description": "يمنع الرجوع على الأعقاب بالطريق المتبع إلى غاية المفترق القادم"
+  },
+  {
+    "id": "p22",
+    "image": "traffic_img/img_sign0_21.png",
+    "description": "ممنوع الجولان على العربات المجرورة بحيوان"
+  },
+  {
+    "id": "p23",
+    "image": "traffic_img/img_sign0_22.png",
+    "description": "ممنوع المرور دون التوقف شرطة"
+  },
+  {
+    "id": "p24",
+    "image": "traffic_img/img_sign0_23.png",
+    "description": "ممنوع المرور دون التوقف ، مركز استخلاص"
+  },
+  {
+    "id": "p25",
+    "image": "traffic_img/img_sign0_24.png",
+    "description": "ممنوع المرور دون التوقف ديوانة"
+  },
+  {
+    "id": "p26",
+    "image": "traffic_img/img_sign0_25.png",
+    "description": "ممنوع المرور دون التوقف حرس وطني"
+  },
+  {
+    "id": "p27",
+    "image": "traffic_img/img_sign0_26.png",
+    "description": "أولوية المرور للعربات القادمة من الإتجاه المقابل"
+  },
+  {
+    "id": "p28",
+    "image": "traffic_img/img_sign0_27.png",
+    "description": "ممنوع الجولان على العربات الناقلة لكمية معينة من مواد متفجرة أو سريعة الإلتهاب"
+  },
+  {
+    "id": "p29",
+    "image": "traffic_img/img_sign0_28.png",
+    "description": "ممنوع استعمال المنبهات الصوتية"
+  },
+  {
+    "id": "p30",
+    "image": "traffic_img/img_sign0_29.png",
+    "description": "اتجاه محجر على كل العربات"
+  },
+  {
+    "id": "p31",
+    "image": "traffic_img/img_sign0_30.png",
+    "description": "يمنع الجولان دون ترك مسافة أمان بين العربات لا تقل عن المسافة المبينة بالعلامة"
+  },
+  {
+    "id": "p32",
+    "image": "traffic_img/img_sign0_31.png",
+    "description": "ممنوع على السيارات و على العربات المركبة و على العربات المزدوجة وعلى مجموعات العربات المعدة لنقل البضائع والتي يفوق وزنها الجملي المرخص فيه أو الوزن الجملى الناقل المرخص فيه 3500 كلغ مجاوزة العربات ذات محرك باستثناء تلك التي لها عجلتان و بدون عربة جانبية"
+  },
+  {
+    "id": "p33",
+    "image": "traffic_img/img_sign0_32.png",
+    "description": "موانع أخرى يقع التنصيص عليها بكتابة على العلامة"
+  },
+  {
+    "id": "p34",
+    "image": "traffic_img/img_sign0_33.png",
+    "description": "ممنوع مجاوزة كل العربات ذات محرك باستثناء تلك التي لها عجلتان و بدون عربة جانبية"
+  },
+  {
+    "id": "p35",
+    "image": "traffic_img/img_sign0_34.png",
+    "description": "منطقة تحديد السرعة"
+  },
+  {
+    "id": "p36",
+    "image": "traffic_img/img_sign0_35.png",
+    "description": "دخول منطقة وقوف محدد بالوقت و مراقب باسطوانة"
+  },
+  {
+    "id": "p37",
+    "image": "traffic_img/img_sign0_36.png",
+    "description": "ممنوع الوقوف و التوقف"
+  },
+  {
+    "id": "p38",
+    "image": "traffic_img/img_sign0_37.png",
+    "description": "ممنوع الجولان على العربات الناقلة لكمية معينة من مواد يمكنها تلويث المياه"
+  },
+  {
+    "id": "p39",
+    "image": "traffic_img/img_sign0_38.png",
+    "description": "دخول منطقة وقوف بمقابل"
+  },
+  {
+    "id": "p40",
+    "image": "traffic_img/img_sign0_39.png",
+    "description": "ممنوع الوقوف"
+  },
+  {
+    "id": "p41",
+    "image": "traffic_img/img_sign0_40.png",
+    "description": "ممنوع الوقوف بجانب العلامة فى الأيام الفردية"
+  },
+  {
+    "id": "p42",
+    "image": "traffic_img/img_sign0_41.png",
+    "description": "ممنوع الوقوف بجانب العلامة فى الأيام الزوجية"
+  },
+  {
+    "id": "p43",
+    "image": "traffic_img/img_sign0_42.png",
+    "description": "ممنوع الوقوف بالنسبة لعربات نقل البضائع"
+  },
+  {
+    "id": "p44",
+    "image": "traffic_img/img_sign0_43.png",
+    "description": "دخول منطقة يمنع فيها الوقوف"
+  },
+  {
+    "id": "p45",
+    "image": "traffic_img/img_sign0_44.png",
+    "description": "الوقوف محدد في الوقت و مراقب باسطوانة"
+  },
+  {
+    "id": "p46",
+    "image": "traffic_img/img_sign0_45.png",
+    "description": "ممنوع الوقوف على يسار العلامة"
+  },
+  {
+    "id": "p47",
+    "image": "traffic_img/img_sign0_46.png",
+    "description": "ممنوع الوقوف على يمين العلامة"
+  },
+  {
+    "id": "p48",
+    "image": "traffic_img/img_sign0_47.png",
+    "description": "الوقوف محدد في الوقت و بمقابل"
+  },
+  {
+    "id": "p49",
+    "image": "traffic_img/img_sign0_48.png",
+    "description": "ممنوع الوقوف ابتداء من العلامة"
+  },
+  {
+    "id": "p50",
+    "image": "traffic_img/img_sign0_49.png",
+    "description": "ممنوع الوقوف إلى غاية العلامة"
+  },
+  {
+    "id": "p51",
+    "image": "traffic_img/img_sign0_50.png",
+    "description": "ممنوع الوقوف قبل و بعد العلامة"
+  }
+]

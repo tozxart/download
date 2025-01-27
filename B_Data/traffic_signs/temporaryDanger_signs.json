@@ -1,0 +1,127 @@
+[
+  {
+    "id": "t1",
+    "image": "traffic_img/img_sign3_0.png",
+    "description": "أشغال"
+  },
+  {
+    "id": "t2",
+    "image": "traffic_img/img_sign3_1.png",
+    "description": "مقذوفات حصى"
+  },
+  {
+    "id": "t3",
+    "image": "traffic_img/img_sign3_2.png",
+    "description": "طريق ضيق"
+  },
+  {
+    "id": "t4",
+    "image": "traffic_img/img_sign3_3.png",
+    "description": "أخطار أخرى"
+  },
+  {
+    "id": "t5",
+    "image": "traffic_img/img_sign3_4.png",
+    "description": "معبد زالق"
+  },
+  {
+    "id": "t6",
+    "image": "traffic_img/img_sign3_5.png",
+    "description": "طريق مسنم"
+  },
+  {
+    "id": "t7",
+    "image": "traffic_img/img_sign3_6.png",
+    "description": "إعلان عن إشارات ضوئية تنظم الجولان"
+  },
+  {
+    "id": "t8",
+    "image": "traffic_img/img_sign3_7.png",
+    "description": "علامة موضعية تشير إلى حدود حواجز وقتية"
+  },
+  {
+    "id": "t9",
+    "image": "traffic_img/img_sign3_8.png",
+    "description": "تحديد مسلك السير"
+  },
+  {
+    "id": "t10",
+    "image": "traffic_img/img_sign3_9.png",
+    "description": "علامة موضعية تشير إلى تغيير الإتجاه أو إلى تقلص عرض المعبد مؤقتا"
+  },
+  {
+    "id": "t11",
+    "image": "traffic_img/img_sign3_10.png",
+    "description": "اوتاد متحركة : يسمح أو يمنع المرور"
+  },
+  {
+    "id": "t12",
+    "image": "traffic_img/img_sign3_11.png",
+    "description": "علامة إرشاد"
+  },
+  {
+    "id": "t13",
+    "image": "traffic_img/img_sign3_12.png",
+    "description": "علامة إرشاد"
+  },
+  {
+    "id": "t14",
+    "image": "traffic_img/img_sign3_13.png",
+    "description": "علامة إرشاد"
+  },
+  {
+    "id": "t15",
+    "image": "traffic_img/img_sign3_14.png",
+    "description": "علامة إرشاد"
+  },
+  {
+    "id": "t16",
+    "image": "traffic_img/img_sign3_15.png",
+    "description": "تغيير الإتجاه"
+  },
+  {
+    "id": "t17",
+    "image": "traffic_img/img_sign3_16.png",
+    "description": "تغيير الإتجاه"
+  },
+  {
+    "id": "t18",
+    "image": "traffic_img/img_sign3_17.png",
+    "description": "يمنع تجاوز السرعة المبينة بالعلامة"
+  },
+  {
+    "id": "t19",
+    "image": "traffic_img/img_sign3_18.png",
+    "description": "تغيير الإتجاه"
+  },
+  {
+    "id": "t20",
+    "image": "traffic_img/img_sign3_19.png",
+    "description": "علامة إرشاد"
+  },
+  {
+    "id": "t21",
+    "image": "traffic_img/img_sign3_20.png",
+    "description": "تأكيد تغيير الإتجاه"
+  },
+  {
+    "id": "t22",
+    "image": "traffic_img/img_sign3_21.png",
+    "description": "نهاية تغيير الإتجاه"
+  },
+  {
+    "id": "t23",
+    "image": "traffic_img/img_sign3_22.png",
+    "description": "علامة إرشاد"
+  },
+  {
+    "id": "t24",
+    "image": "traffic_img/img_sign3_23.png",
+    "description": "إشارات ضوئية وقتية"
+  },
+  {
+    "id": "t25",
+    "image": "traffic_img/img_sign3_24.png",
+    "description": "علامة متقدمة تشير إلى تغيير الإتجاه ممنوع المرور في الإتجاهين"
+  }
+]

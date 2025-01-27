@@ -1,0 +1,37 @@
+[
+  {
+    "id": "om1",
+    "image": "traffic_img/img_sign5_0.png",
+    "description": "نهاية سبيل إجباري للمترجلين"
+  },
+  {
+    "id": "om2",
+    "image": "traffic_img/img_sign5_1.png",
+    "description": "نهاية جبر استعمال سلاسل الثلوج"
+  },
+  {
+    "id": "om3",
+    "image": "traffic_img/img_sign5_2.png",
+    "description": "نهاية مسلك أو سبيل إجباري للدراجات"
+  },
+  {
+    "id": "om4",
+    "image": "traffic_img/img_sign5_3.png",
+    "description": "نهاية أدنى سرعة إجبارية"
+  },
+  {
+    "id": "om5",
+    "image": "traffic_img/img_sign5_4.png",
+    "description": "نهاية الممر خاص بعربات الخدمات المنتظمة للنقل العمومي للأشخاص"
+  },
+  {
+    "id": "om6",
+    "image": "traffic_img/img_sign5_5.png",
+    "description": "نهاية الممر خاص بعربات الخدمات المنتظمة للنقل العمومي للأشخاص"
+  },
+  {
+    "id": "om7",
+    "image": "traffic_img/img_sign5_6.png",
+    "description": "نهاية سبيل إجباري لركبي الخيول"
+  }
+]

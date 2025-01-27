@@ -1,0 +1,187 @@
+[
+  {
+    "id": "i1",
+    "image": "traffic_img/img_sign7_0.png",
+    "description": "الدخول إلى طريق سيارة"
+  },
+  {
+    "id": "i2",
+    "image": "traffic_img/img_sign7_1.png",
+    "description": "مأوى للوقوف"
+  },
+  {
+    "id": "i3",
+    "image": "traffic_img/img_sign7_2.png",
+    "description": "مأوى للوقوف محدّد بالوقت و مراقب باسطوانة"
+  },
+  {
+    "id": "i4",
+    "image": "traffic_img/img_sign7_3.png",
+    "description": "مأوى للوقوف بمقابل"
+  },
+  {
+    "id": "i5",
+    "image": "traffic_img/img_sign7_4.png",
+    "description": "إشارات مختلفة"
+  },
+  {
+    "id": "i6",
+    "image": "traffic_img/img_sign7_5.png",
+    "description": "محطة حافلات"
+  },
+  {
+    "id": "i7",
+    "image": "traffic_img/img_sign7_6.png",
+    "description": "محطة مترو أو ترامواي"
+  },
+  {
+    "id": "i8",
+    "image": "traffic_img/img_sign7_7.png",
+    "description": "جولان في اتجاه واحد"
+  },
+  {
+    "id": "i9",
+    "image": "traffic_img/img_sign7_8.png",
+    "description": "ممر بدون منفذ"
+  },
+  {
+    "id": "i10",
+    "image": "traffic_img/img_sign7_9.png",
+    "description": "ممر بدون منفذ"
+  },
+  {
+    "id": "i11",
+    "image": "traffic_img/img_sign7_10.png",
+    "description": "الأولوية بالنسبة للجولان من الإتجاه المعاكس"
+  },
+  {
+    "id": "i12",
+    "image": "traffic_img/img_sign7_11.png",
+    "description": "السرعة المحبذة"
+  },
+  {
+    "id": "i13",
+    "image": "traffic_img/img_sign7_12.png",
+    "description": "نهاية السرعة المحبذة"
+  },
+  {
+    "id": "i14",
+    "image": "traffic_img/img_sign7_13.png",
+    "description": "علامات لكل مسلك"
+  },
+  {
+    "id": "i15",
+    "image": "traffic_img/img_sign7_14.png",
+    "description": "إعلان تقلص عدد مسالك بطريق ذات معبدات منفصلة"
+  },
+  {
+    "id": "i16",
+    "image": "traffic_img/img_sign7_15.png",
+    "description": "فتحة للمجاوزة ذات ثلاث مسالك : مسلكان مع مسلك واحد"
+  },
+  {
+    "id": "i17",
+    "image": "traffic_img/img_sign7_16.png",
+    "description": "إعلان عن نجدة"
+  },
+  {
+    "id": "i18",
+    "image": "traffic_img/img_sign7_17.png",
+    "description": "طريق للسيارات"
+  },
+  {
+    "id": "i19",
+    "image": "traffic_img/img_sign7_18.png",
+    "description": "نهاية طريق للسيارات"
+  },
+  {
+    "id": "i20",
+    "image": "traffic_img/img_sign7_19.png",
+    "description": "ممر للمترجلين"
+  },
+  {
+    "id": "i21",
+    "image": "traffic_img/img_sign7_20.png",
+    "description": "مخفض سرعة من نوع مسنم"
+  },
+  {
+    "id": "i22",
+    "image": "traffic_img/img_sign7_21.png",
+    "description": "مركز هاتف"
+  },
+  {
+    "id": "i23",
+    "image": "traffic_img/img_sign7_22.png",
+    "description": "تجهيزات سهلة البلوغ بالنسبة للمعوقين بدنيا"
+  },
+  {
+    "id": "i24",
+    "image": "traffic_img/img_sign7_23.png",
+    "description": "معلومات حول خدمات أو أنشطة سياحية"
+  },
+  {
+    "id": "i25",
+    "image": "traffic_img/img_sign7_24.png",
+    "description": "فندق للشباب"
+  },
+  {
+    "id": "i26",
+    "image": "traffic_img/img_sign7_25.png",
+    "description": "موقع للنزهة"
+  },
+  {
+    "id": "i27",
+    "image": "traffic_img/img_sign7_26.png",
+    "description": "مستشفى"
+  },
+  {
+    "id": "i28",
+    "image": "traffic_img/img_sign7_27.png",
+    "description": "مكان تخييم في مقطورات"
+  },
+  {
+    "id": "i29",
+    "image": "traffic_img/img_sign7_28.png",
+    "description": "بيان المسالك المخصصة لكل اتجاه جولان"
+  },
+  {
+    "id": "i30",
+    "image": "traffic_img/img_sign7_29.png",
+    "description": "نهاية جزء الطريق المبينة فيه المسالك المخصصة لكل اتجاه جولان"
+  },
+  {
+    "id": "i31",
+    "image": "traffic_img/img_sign7_30.png",
+    "description": "محطة سيارات تاكسي"
+  },
+  {
+    "id": "i32",
+    "image": "traffic_img/img_sign7_31.png",
+    "description": "الخروج من طريق سيارة"
+  },
+  {
+    "id": "i33",
+    "image": "traffic_img/img_sign7_32.png",
+    "description": "علامة اتجاه"
+  },
+  {
+    "id": "i34",
+    "image": "traffic_img/img_sign7_33.png",
+    "description": "علامة متقدمة تشير الى التجمعات السكنية القريبة"
+  },
+  {
+    "id": "i35",
+    "image": "traffic_img/img_sign7_34.png",
+    "description": "بداية موطن عمران"
+  },
+  {
+    "id": "i36",
+    "image": "traffic_img/img_sign7_35.png",
+    "description": "نهاية موطن عمران"
+  },
+  {
+    "id": "i37",
+    "image": "traffic_img/img_sign7_36.png",
+    "description": "علامة اشعار مع بيان المسافة"
+  }
+]
