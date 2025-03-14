@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://youtu.be/example1",
+    "title": "Basic Driving Skills",
+    "titleAr": "مهارات القيادة الأساسية",
+    "description": "Learn the basics of driving",
+    "descriptionAr": "تعلم أساسيات القيادة",
+    "owner": "فريق القيادة",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "url": "https://youtube.com/shorts/example2",
+    "title": "Quick Driving Tips",
+    "titleAr": "نصائح سريعة للقيادة",
+    "description": "Essential driving tips for beginners",
+    "descriptionAr": "نصائح أساسية للمبتدئين في القيادة",
+    "owner": "فريق القيادة",
+    "width": 1080,
+    "height": 1920
+  }
+]
