@@ -1,0 +1,27 @@
+{
+  "database": {
+    "version": "1.0.3",
+    "last_updated": "2025-03-14",
+    "description": "Main database"
+  },
+  "images": {
+    "version": "1.0.4",
+    "last_updated": "2025-03-14",
+    "description": "Image files version"
+  },
+  "lessons": {
+    "version": "1.0.0",
+    "last_updated": "2025-03-12",
+    "description": "Educational lessons version"
+  },
+  "driving_videos": {
+    "version": "1.0.0",
+    "last_updated": "2025-03-12",
+    "description": "Driving videos version"
+  },
+  "parking": {
+    "version": "1.0.0",
+    "last_updated": "2025-03-12",
+    "description": "Parking instructions version"
+  }
+}
