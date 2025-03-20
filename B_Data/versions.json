@@ -1,11 +1,11 @@
 {
   "database": {
-    "version": "1.0.3",
+    "version": "1.0.0",
     "last_updated": "2025-03-14",
     "description": "Main database"
   },
   "images": {
-    "version": "1.0.4",
+    "version": "1.0.0",
     "last_updated": "2025-03-14",
     "description": "Image files version"
   },
