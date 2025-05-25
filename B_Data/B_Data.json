@@ -17,12 +17,12 @@
         "description": "Educational lessons version"
       },
       "driving_videos": {
-        "version": "1.0.1",
+        "version": "1.0.2",
         "last_updated": "2025-03-12",
         "description": "Driving videos version"
       },
       "parking": {
-        "version": "1.0.1",
+        "version": "1.0.2",
         "last_updated": "2025-03-12",
         "description": "Parking instructions version"
       }
