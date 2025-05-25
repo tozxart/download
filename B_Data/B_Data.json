@@ -2,12 +2,12 @@
   "B_Data": {
     "versions": {
       "database": {
-        "version": "1.1.1",
+        "version": "1.0.0",
         "last_updated": "2025-03-14",
         "description": "Main database"
       },
       "images": {
-        "version": "1.0.1",
+        "version": "1.0.0",
         "last_updated": "2025-03-14",
         "description": "Image files version"
       },
@@ -17,12 +17,12 @@
         "description": "Educational lessons version"
       },
       "driving_videos": {
-        "version": "1.0.3",
+        "version": "1.0.0",
         "last_updated": "2025-03-12",
         "description": "Driving videos version"
       },
       "parking": {
-        "version": "1.0.3",
+        "version": "1.0.0",
         "last_updated": "2025-03-12",
         "description": "Parking instructions version"
       }
