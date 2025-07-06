@@ -1,0 +1,3224 @@
+{
+  "A_Data": {
+    "versions": {
+      "exercises": "1.0.0",
+      "questions": "1.0.0"
+    },
+    "links": {
+      "questions": {
+        "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//tozxart/download/refs/heads/main/api/src/Aquestions.db",
+        "downloaded": false,
+        "interrupted": false
+      },
+      "images": [
+        {
+          "path": "A_Data/exercises/41.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/41.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/2.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/2.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/3.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/3.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/171.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/171.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/456.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/456.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/337.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/337.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/317.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/317.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/15.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/15.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/10.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/10.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/12.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/12.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/13.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/13.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/14.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/14.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/18.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/18.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/19.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/19.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/20.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/20.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/149.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/149.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/608.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/608.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/25.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/25.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/26.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/26.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/27.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/27.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/100.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/100.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/124.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/124.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/634.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/634.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/283.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/283.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/121.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/121.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/114.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/114.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/307.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/307.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/117.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/117.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/319.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/319.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/53.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/53.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/135.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/135.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/370.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/370.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/127.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/127.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/443.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/443.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/55.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/55.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/58.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/58.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/59.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/59.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/60.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/60.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/231.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/231.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/459.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/459.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/625.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/625.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/461.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/461.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/134.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/134.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/76.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/76.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/211.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/211.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/471.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/471.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/86.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/86.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/380.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/380.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/483.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/483.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/484.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/484.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/622.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/622.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/103.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/103.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/414.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/414.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/106.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/106.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/110.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/110.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/111.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/111.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/112.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/112.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/306.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/306.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/122.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/122.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/125.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/125.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/343.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/343.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/128.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/128.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/132.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/132.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/150.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/150.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/152.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/152.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/153.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/153.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/197.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/197.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/335.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/335.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/450.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/450.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/186.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/186.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/161.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/161.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/340.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/340.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/269.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/269.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/167.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/167.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/168.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/168.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/170.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/170.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/172.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/172.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/179.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/179.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/181.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/181.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/182.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/182.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/184.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/184.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/188.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/188.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/189.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/189.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/191.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/191.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/192.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/192.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/196.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/196.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/198.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/198.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/200.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/200.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/201.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/201.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/202.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/202.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/308.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/308.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/204.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/204.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/205.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/205.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/207.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/207.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/208.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/208.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/212.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/212.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/215.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/215.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/216.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/216.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/218.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/218.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/219.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/219.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/220.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/220.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/224.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/224.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/225.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/225.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/227.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/227.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/228.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/228.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/277.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/277.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/232.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/232.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/233.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/233.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/235.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/235.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/236.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/236.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/237.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/237.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/238.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/238.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/239.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/239.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/240.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/240.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/243.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/243.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/244.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/244.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/248.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/248.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/253.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/253.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/254.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/254.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/255.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/255.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/256.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/256.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/722.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/722.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/258.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/258.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/262.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/262.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/263.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/263.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/264.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/264.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/265.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/265.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/266.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/266.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/267.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/267.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/274.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/274.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/270.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/270.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/271.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/271.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/273.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/273.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/275.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/275.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/276.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/276.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/278.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/278.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/281.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/281.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/285.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/285.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/286.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/286.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/287.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/287.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/288.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/288.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/290.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/290.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/291.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/291.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/292.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/292.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/293.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/293.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/294.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/294.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/295.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/295.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/296.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/296.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/297.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/297.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/299.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/299.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/300.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/300.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/301.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/301.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/303.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/303.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/309.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/309.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/311.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/311.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/312.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/312.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/413.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/413.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/314.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/314.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/316.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/316.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/398.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/398.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/321.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/321.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/322.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/322.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/323.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/323.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/324.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/324.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/325.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/325.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/326.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/326.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/327.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/327.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/328.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/328.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/329.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/329.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/330.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/330.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/331.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/331.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/333.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/333.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/334.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/334.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/338.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/338.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/339.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/339.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/341.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/341.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/344.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/344.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/349.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/349.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/350.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/350.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/357.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/357.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/358.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/358.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/360.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/360.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/361.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/361.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/365.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/365.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/367.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/367.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/368.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/368.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/369.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/369.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/371.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/371.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/372.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/372.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/373.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/373.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/374.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/374.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/716.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/716.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/377.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/377.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/378.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/378.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/379.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/379.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/382.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/382.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/383.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/383.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/384.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/384.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/385.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/385.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/389.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/389.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/390.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/390.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/391.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/391.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/392.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/392.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/394.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/394.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/395.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/395.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/397.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/397.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/401.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/401.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/403.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/403.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/404.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/404.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/405.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/405.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/407.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/407.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/409.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/409.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/410.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/410.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/411.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/411.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/412.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/412.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/415.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/415.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/423.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/423.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/424.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/424.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/426.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/426.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/428.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/428.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/429.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/429.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/430.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/430.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/431.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/431.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/432.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/432.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/433.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/433.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/791.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/791.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/438.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/438.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/439.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/439.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/441.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/441.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/446.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/446.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/448.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/448.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/449.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/449.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/529.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/529.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/685.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/685.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/562.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/562.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/567.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/567.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/570.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/570.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/572.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/572.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/580.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/580.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/585.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/585.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/593.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/593.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/603.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/603.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/623.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/623.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/630.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/630.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/764.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/764.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/648.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/648.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/649.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/649.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/659.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/659.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/673.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/673.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/678.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/678.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/703.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/703.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/707.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/707.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/711.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/711.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/725.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/725.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/729.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/729.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/732.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/732.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/740.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/740.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/742.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/742.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/756.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/756.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/760.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/760.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/772.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/772.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/782.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/782.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/786.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/786.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/789.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/789.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/801.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/801.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/814.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/814.enc",
+          "downloaded": false,
+          "interrupted": false
+        }
+      ]
+    }
+  },
+  "AA_Data": {
+    "versions": {
+      "exercises": "1.0.0",
+      "questions": "1.0.0"
+    },
+    "links": {
+      "questions": {
+        "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//tozxart/download/refs/heads/main/api/src/Aquestions.db",
+        "downloaded": false,
+        "interrupted": false
+      },
+      "images": [
+        {
+          "path": "A_Data/exercises/41.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/41.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/2.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/2.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/3.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/3.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/171.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/171.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/456.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/456.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/337.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/337.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/317.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/317.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/15.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/15.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/10.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/10.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/12.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/12.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/13.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/13.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/14.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/14.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/18.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/18.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/19.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/19.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/20.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/20.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/149.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/149.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/608.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/608.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/25.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/25.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/26.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/26.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/27.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/27.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/100.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/100.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/124.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/124.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/634.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/634.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/283.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/283.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/121.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/121.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/114.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/114.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/307.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/307.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/117.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/117.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/319.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/319.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/53.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/53.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/135.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/135.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/370.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/370.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/127.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/127.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/443.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/443.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/55.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/55.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/58.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/58.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/59.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/59.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/60.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/60.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/231.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/231.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/459.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/459.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/625.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/625.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/461.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/461.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/134.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/134.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/76.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/76.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/211.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/211.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/471.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/471.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/86.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/86.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/380.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/380.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/483.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/483.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/484.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/484.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/622.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/622.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/103.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/103.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/414.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/414.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/106.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/106.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/110.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/110.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/111.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/111.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/112.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/112.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/306.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/306.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/122.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/122.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/125.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/125.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/343.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/343.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/128.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/128.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/132.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/132.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/150.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/150.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/152.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/152.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/153.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/153.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/197.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/197.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/335.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/335.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/450.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/450.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/186.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/186.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/161.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/161.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/340.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/340.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/269.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/269.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/167.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/167.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/168.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/168.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/170.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/170.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/172.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/172.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/179.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/179.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/181.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/181.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/182.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/182.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/184.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/184.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/188.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/188.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/189.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/189.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/191.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/191.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/192.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/192.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/196.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/196.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/198.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/198.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/200.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/200.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/201.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/201.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/202.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/202.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/308.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/308.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/204.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/204.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/205.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/205.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/207.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/207.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/208.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/208.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/212.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/212.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/215.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/215.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/216.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/216.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/218.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/218.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/219.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/219.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/220.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/220.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/224.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/224.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/225.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/225.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/227.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/227.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/228.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/228.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/277.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/277.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/232.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/232.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/233.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/233.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/235.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/235.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/236.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/236.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/237.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/237.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/238.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/238.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/239.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/239.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/240.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/240.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/243.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/243.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/244.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/244.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/248.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/248.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/253.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/253.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/254.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/254.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/255.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/255.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/256.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/256.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/722.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/722.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/258.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/258.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/262.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/262.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/263.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/263.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/264.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/264.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/265.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/265.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/266.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/266.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/267.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/267.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/274.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/274.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/270.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/270.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/271.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/271.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/273.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/273.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/275.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/275.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/276.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/276.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/278.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/278.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/281.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/281.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/285.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/285.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/286.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/286.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/287.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/287.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/288.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/288.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/290.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/290.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/291.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/291.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/292.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/292.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/293.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/293.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/294.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/294.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/295.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/295.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/296.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/296.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/297.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/297.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/299.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/299.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/300.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/300.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/301.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/301.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/303.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/303.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/309.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/309.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/311.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/311.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/312.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/312.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/413.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/413.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/314.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/314.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/316.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/316.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/398.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/398.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/321.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/321.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/322.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/322.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/323.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/323.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/324.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/324.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/325.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/325.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/326.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/326.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/327.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/327.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/328.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/328.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/329.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/329.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/330.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/330.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/331.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/331.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/333.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/333.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/334.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/334.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/338.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/338.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/339.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/339.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/341.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/341.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/344.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/344.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/349.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/349.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/350.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/350.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/357.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/357.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/358.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/358.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/360.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/360.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/361.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/361.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/365.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/365.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/367.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/367.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/368.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/368.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/369.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/369.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/371.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/371.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/372.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/372.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/373.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/373.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/374.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/374.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/716.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/716.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/377.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/377.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/378.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/378.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/379.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/379.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/382.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/382.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/383.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/383.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/384.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/384.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/385.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/385.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/389.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/389.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/390.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/390.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/391.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/391.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/392.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/392.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/394.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/394.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/395.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/395.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/397.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/397.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/401.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/401.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/403.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/403.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/404.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/404.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/405.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/405.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/407.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/407.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/409.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/409.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/410.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/410.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/411.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/411.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/412.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/412.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/415.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/415.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/423.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/423.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/424.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/424.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/426.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/426.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/428.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/428.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/429.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/429.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/430.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/430.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/431.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/431.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/432.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/432.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/433.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/433.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/791.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/791.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/438.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/438.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/439.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/439.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/441.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/441.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/446.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/446.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/448.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/448.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/449.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/449.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/529.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/529.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/685.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/685.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/562.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/562.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/567.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/567.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/570.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/570.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/572.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/572.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/580.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/580.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/585.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/585.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/593.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/593.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/603.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/603.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/623.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/623.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/630.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/630.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/764.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/764.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/648.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/648.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/649.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/649.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/659.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/659.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/673.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/673.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/678.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/678.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/703.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/703.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/707.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/707.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/711.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/711.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/725.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/725.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/729.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/729.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/732.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/732.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/740.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/740.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/742.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/742.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/756.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/756.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/760.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/760.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/772.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/772.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/782.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/782.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/786.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/786.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/789.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/789.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/801.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/801.enc",
+          "downloaded": false,
+          "interrupted": false
+        },
+        {
+          "path": "A_Data/exercises/814.enc",
+          "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main//username/repo/main/api/A_Data/exercises/814.enc",
+          "downloaded": false,
+          "interrupted": false
+        }
+      ]
+    }
+  }
+}
