@@ -5,7 +5,7 @@
       "questions": "1.0.0"
     },
     "links": {
-      "questions": {
+      "database": {
         "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main/A_Data/Aquestions.db",
         "downloaded": false,
         "interrupted": false
@@ -1616,7 +1616,7 @@
       "questions": "1.0.0"
     },
     "links": {
-      "questions": {
+      "database": {
         "url": "https://raw.githubusercontent.com/tozxart/download/refs/heads/main/A_Data/Aquestions.db",
         "downloaded": false,
         "interrupted": false
