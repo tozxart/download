@@ -1,0 +1,41 @@
+{
+  "B": {
+    "database": {
+      "version": "1.1.1",
+      "last_updated": "2025-03-14",
+      "description": "Main database for B category"
+    },
+    "images": {
+      "version": "1.0.0",
+      "last_updated": "2025-03-14",
+      "description": "Image files for B category"
+    }
+  },
+  "A_AA": {
+    "database": {
+      "version": "1.1.1",
+      "last_updated": "2025-03-14",
+      "description": "Main database for A and AA categories"
+    },
+    "images": {
+      "version": "1.0.0",
+      "last_updated": "2025-03-14",
+      "description": "Image files for A and AA categories"
+    }
+  },
+  "lessons": {
+    "version": "1.0.0",
+    "last_updated": "2025-03-12",
+    "description": "Educational lessons version"
+  },
+  "driving_videos": {
+    "version": "1.0.0",
+    "last_updated": "2025-03-12",
+    "description": "Driving videos version"
+  },
+  "parking": {
+    "version": "1.0.0",
+    "last_updated": "2025-03-12",
+    "description": "Parking instructions version"
+  }
+}
