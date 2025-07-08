@@ -13,7 +13,7 @@
   },
   "A_AA": {
     "database": {
-      "version": "1.1.1",
+      "version": "1.1.2",
       "last_updated": "2025-03-14",
       "description": "Main database for A and AA categories"
     },
